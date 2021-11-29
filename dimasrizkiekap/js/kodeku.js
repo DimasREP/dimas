@@ -1,0 +1,1 @@
+alert("helo ini dari exsternal javascript");
